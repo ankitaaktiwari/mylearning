@@ -8,3 +8,4 @@ git add . : this will add all the files of directory to staging area
 git branch <branchname> : to add a branch
 git branch -d branchname : to delete a branch
 git restore --staged <filename> : to unstage a staged file
+git checkout <branchname> : to go to a particular branch
