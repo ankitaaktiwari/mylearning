@@ -1,0 +1,2 @@
+few Linux commands
+to remove a directory in Linux - rm -rf <directory>
