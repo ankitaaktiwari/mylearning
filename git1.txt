@@ -6,3 +6,5 @@ git push : this will push the local changes to remote repository
 git pull : this will pull the latest version of remote to local
 git add . : this will add all the files of directory to staging area
 git branch <branchname> : to add a branch
+git checkout <branchname> : to got to a particular branch
+got branch -d <branchname> : to delete that branch
