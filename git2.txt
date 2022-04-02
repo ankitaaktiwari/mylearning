@@ -1,2 +1,3 @@
 few Linux commands
-to remove a directory in Linux - rm -rf <directory>
+to remove a directory in Linux : rm -rf <directory>
+to change directory : cd <directory>
