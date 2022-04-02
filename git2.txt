@@ -1,3 +1,4 @@
 few Linux commands
 to remove a directory in Linux : rm -rf <directory>
 to change directory : cd <directory>
+to know the present working dir : pwd
