@@ -1,2 +1,3 @@
 git version - gives the version of git on your machine
 git clone <repo_URL> <Directory> - this will clone the mentioned repository from remote to local
+git add <filename> - this will add the changes to statging area
